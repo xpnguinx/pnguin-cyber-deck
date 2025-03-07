@@ -1,0 +1,7 @@
+# PNGUIN CYBERDECK v1.2 requirements
+# Core dependencies
+Pillow>=9.0.0
+requests>=2.27.1
+
+# Note: tkinter is included with Python standard library
+# and doesn't need to be installed via pip
