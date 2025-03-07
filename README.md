@@ -8,12 +8,14 @@
 ██║     ██║ ╚████║╚██████╔╝╚██████╔╝██║██║ ╚████║
 ╚═╝     ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═╝╚═╝  ╚═══╝
 ```
+<img width="389" alt="Screenshot 2025-03-07 at 2 35 44 PM" src="https://github.com/user-attachments/assets/afdb3a81-9c06-4f55-aadf-0937792fe38f" />
 
 ## [🌌/VOID/ETHER/NEXUS] -----> Stealth: Engaged | 🟢 active
 
 A retro-themed ASCII art animation toolkit and cyberdeck simulator, blending 90s aesthetics with modern Python capabilities. This digital canvas brings ASCII art to life through dynamic animations, pattern generation, and LLM integration.
 
-![PNGUIN CYBERDECK](https://api.placeholder/800/400)
+<img width="1185" alt="Screenshot 2025-03-07 at 2 34 55 PM" src="https://github.com/user-attachments/assets/b24919b0-2555-486c-a913-28b275110a8d" />
+
 
 ## 🔮 SYSTEM OVERVIEW
 
